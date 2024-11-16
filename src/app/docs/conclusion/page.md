@@ -1,0 +1,19 @@
+---
+title: Conclusion
+nextjs:
+  metadata:
+    title: Conclusion
+    description: TBD
+---
+
+THE ONLY WAY to thrive in twenty-first century America is to “own nothing and control everything.” And though any trustee is the legal owner of the property in trust, the trustee(s) of Express Trusts do not experience the incidents of personal ownership due to properly limited liability via trust instrument and the utter shrewdness of the trustee(s). It is this limited liability that makes the Express Trust equal to a corporation; but it is the flexibility of choice of whether to function in the common law venue with absolute rights in commerce under the general law-merchant or in the Roman civil law venue with only relative rights in commerce under private international law that makes the Express Trust, inter alia, far superior and unique. Under the aegis of the Express Trust, the trustee is clothed in a veil impenetrable but from within. This suit of armor is the trust instrument, which molds to the trustee in all his good-faith dealings in behalf of the trust, fully compensating him for his services, privileging his use of trust property, and enabling his exercise of creativity in business endeavors, all without the excessive weight of inquisitorial legislation. When one is trustee, he is in a fiduciary position looked upon with respect for the integrity inherent in the position. This has always been the case, except where the power has been abused. But even so, history is clear that there are far more abuses of power via corporations than Express Trusts.209 
+
+Given the statistics, and the fact that all governments in twenty-first century America are corporations themselves, it becomes clear that the extensive recognition given to corporations by the state is simply because of the special-interest relationship between the two. In a way, it is the same relationship between the “John” and the prostitute,210 and it is therefore in the best interest of the prostitute to take measures to keep the “John” in business in order to indirectly protect her own “job security”. This is the cause for the general sentiment towards Express Trusts operating in the statutory world. It is this relationship that has bred the irrational view that “some trusts have been created independent of statute; some non-statutory trusts are said to have done harm; therefore public policy demands that hereafter all trusts shall be regulated.” The irrationality of this line of reasoning will be more apparent if the syllogism is paraphrased thus: “some lawyers have been Presidents of the United States; some Presidents are said to have done harm; therefore public policy demands that hereafter all lawyers shall be prohibited.” 
+
+The bottom line is that the Express Trust relation is the most flexible means to owning nothing and controlling everything, and when utilized shrewdly, affords its participants with all the ingredients to live well, naturally. It is also true that no matter how many arguments are made against the Express Trust, the learned reader will always see through the propaganda and spin, knowing from his own knowledge and independent study that an Express Trust, in reality, can only fail due to some misgiving or impropriety on the part of the trustee— the trustee must also trust himself. 
+
+---
+
+209See Chandler, supra at p. 10, et seq. 
+
+210Governor Fernald of Maine, in his address to the Maine Legislature in 1909, referring to reformation of the corporation laws said, “[w]hile it is true that the State is receiving large revenue from this source, it is also true that, in a considerable measure, it is the price of prostitution. I hope you will take steps to remodel them, along evident lines of reform, thus restoring to Maine her self-respect.” [Italics emphasis added.]
