@@ -6,13 +6,16 @@ A comprehension guide endevours to teach you the content of a specific written d
 
 {% quick-links %}
 
-{% quick-link title="Read" icon="installation" href="/" description="The first step is to read the content and begin to understand the purpose of it." /%}
+{% quick-link title="Read" icon="installation" href="/" description="The first step is to _read_ the content and begin to understand the purpose of it." /%}
 
-{% quick-link title="Comprehend" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Comprehend" icon="presets" href="/" description="After reading the content then you meed to comprehen how it works and fits together." /%}
 
-{% quick-link title="Master" icon="plugins" href="/" description="Extend the library with third-party plugins or write your own." /%}
+{% quick-link title="Overstand" icon="plugins" href="/" description="Overstand the document and use it to your advantage in your own life." /%}
 
-{% quick-link title="Certify" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="Certify" icon="theming" href="/" description="Learn and comprehen the content to a degree that you can teach it to others." /%}
+
+{% quick-link title="Share" icon="theming" href="/" description="Share the content with others." /%}
+
 
 {% /quick-links %}
 

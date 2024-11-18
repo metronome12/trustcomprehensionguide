@@ -14,9 +14,13 @@ Show the password
 {{TRUSTEE1}}, an individual, referred to as "SELLER", sells, bargains and conveys all of SELLER'S right, title and interest in:1 
 
 Make: _______________________________ {% align="right" %}
+
 Model: _______________________________ {% align="right" %}
+
 Style of the vehicle: _____________________ {% align="right" %}
+
 Year of vehicle: __________ {% align="right" %}
+
 VIN: _________________________________ {% align="right" %}
 
 to {{TRUSTNAME}}, an Express Trust Organization, referred to as "BUYER".  
@@ -25,12 +29,27 @@ SELLER acknowledges receipt of a total of $ ____________________ _______________
 The goods herein are not sold by a merchant in the field. THESE GOODS ARE SOLD WITHOUT UCC WARRANTY OF ANY KIND, including MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. BUYER acknowledges examining the goods sold herein. This provision may not be applicable, and legal rights may vary between states. 
 The parties agree to the terms and conditions stated herein:  
 
-SELLER: 					BUYER: 
+{% table %}
+---
+- SELLER: 					
+- BUYER: 
+{% /table %}
+
+
+
+
 _____________________________     By_________________________________ Authorized Representative 
 
 I/We, {{BENEFICIARY1}} and {{BENEFICIARY2}}, as Beneficiaries of BUYER, do hereby consent, freely, willfully, intelligently, independently, and without undue influence of Seller or Authorized Representative, to the transaction contemplated in this bill of sale on this _____ day of ____________________, 200X. 
-__________________________________ 		__________________________________________ 
-{{BENEFICIARY1}} 				{{BENEFICIARY2}} 
+
+
+{% table %}
+---
+- __________________________________ 		
+  {{BENEFICIARY1}} 
+- __________________________________________ 
+  {{BENEFICIARY2}} 
+{% /table %}
 
 ---
 1 This form can be modified for any transfers of property from trustee to trust or vise versa simply by altering the description of the property sold. This document should always be completed in conjunction with purchase agreement in support.

@@ -2,6 +2,8 @@ export const navigation = [
   {
     title: 'Introduction',
     links: [
+
+      { title: 'blah', href: '/docs/AFV' },
       { title: 'Getting started', href: '/' },
       { title: 'Author', href: '/docs/author' },
       { title: 'Book Introduction', href: '/docs/introduction' },
@@ -60,7 +62,7 @@ export const navigation = [
       { title: 'Authorized Representative Introduction Letter', href: '/docs/4' }, 
       { title: 'Authorized Representative Letter of Authorization', href: '/docs/5' }, 
       { title: 'Authorized Representative Limited Power of Attorney', href: '/docs/6' }, 
-      { title: 'Basic Management Agreement', href: '/docs/7' }, 
+      { title: 'Basic Management Agreement', href: '/docs/sample-forms/management-agreement' }, 
       { title: 'Bill of Sale', href: '/docs/sample-forms/bill-of-sale' }, 
       { title: 'Bonds', href: '/docs/9' }, 
       { title: 'Exchange Proposal', href: '/docs/10' }, 

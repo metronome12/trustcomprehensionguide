@@ -14,7 +14,7 @@ if (typeof window !== "undefined") {
   const rdt = RadixDappToolkit({
     dAppDefinitionAddress:
       'account_rdx128rwmlj26lwlp9kne5d5j58fr29t44zsj0hmfu6cu5hx9kqvzjrxu4',
-    networkId: RadixNetwork.Mainnet,
+    networkId: RadixNetwork.Stokenet,
     applicationName: 'TrustHandbook',
     applicationVersion: '1.0.0',
     logger: Logger(1)
@@ -65,7 +65,7 @@ export function Hero() {
                Weiss Concise Trustee Handbook Comprehension Guide
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
-                Compreshension guide for Trust Handbook
+                A Comprehension Guide to the Administration of an Express Trust under the Common Law
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
                 <Button href="/">Get started</Button>
