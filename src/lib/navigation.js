@@ -2,8 +2,6 @@ export const navigation = [
   {
     title: 'Introduction',
     links: [
-
-      { title: 'blah', href: '/docs/AFV' },
       { title: 'Getting started', href: '/' },
       { title: 'Author', href: '/docs/author' },
       { title: 'Book Introduction', href: '/docs/introduction' },
