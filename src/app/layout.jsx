@@ -23,10 +23,10 @@ const lexend = localFont({
 export const metadata = {
   title: {
     template: '%s - Docs',
-    default: 'Trust - Never miss the cache again.',
+    default: 'Trust - Trust Handbook',
   },
   description:
-    'Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.',
+    'A GUIDE TO THE ADMINISTRATION OF AN EXPRESS TRUST UNDER THE COMMON LAW, FUNCTIONING UNDER THE GENERAL LAW-MERCHANT',
 }
 
 export default function RootLayout({ children }) {

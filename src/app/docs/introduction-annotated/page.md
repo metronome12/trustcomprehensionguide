@@ -19,14 +19,5 @@ If the reader should find, after examining the sources, that this work has faile
 
 <!-- Lorum ipsum dolor sit amet. {% note #1 /%}
 
-{% note #1 %}Here is the footnote.{% /note %}
-
-{% tabs %}
-  {% tab label="First tab"%}
-    Content in the first tab
-  {% /tab %}
-  {% tab label="Second tab"%}
-    Second tab content
-  {% /tab %}
-{% /tabs %}
- -->
+bbbbbb
+{% note #1 %}Here is the footnote.{% /note %} -->
